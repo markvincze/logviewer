@@ -1,0 +1,15 @@
+#root {
+  display: flex;
+  overflow: hidden;
+}
+
+#sidebar {
+  flex: initial;
+  width: 200px;
+  background-color: cornflowerblue;
+}
+
+#main {
+  flex: auto;
+  background-color: darkseagreen;
+}
