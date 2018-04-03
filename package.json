@@ -4,6 +4,10 @@
   "private": true,
   "main": "src/electron-starter.js",
   "dependencies": {
+    "@types/electron": "^1.6.10",
+    "@types/text-encoding": "0.0.32",
+    "devtron": "^1.4.0",
+    "moment": "^2.22.0",
     "node-ipc": "^9.1.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
